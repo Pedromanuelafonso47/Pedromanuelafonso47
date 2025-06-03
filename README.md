@@ -1,4 +1,4 @@
-### Ola eu sou o Pedro Afonso👋
+Ola eu sou o Pedro Afonso👋Tecnologia é minha linguagem desde criança. Vejo nela a ponte entre sonhos e realidade, a ferramenta que transforma assimetrias em oportunidades. Movido por desafios, aprendizado contínuo e soluções que mudam vidas, busco não apenas evoluir, mas inspirar. Acredito em código que humaniza e inovação que democratiza. Vamos construir o futuro?
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/Pedromanuelafonso47/Pedromanuelafonso47/edit/main/README.md)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC7QhKLP1KyaQLQlE-iDrPiw) 
 [![winstagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.youtube.com/channel/UC7QhKLP1KyaQLQlE-iDrPiw)
