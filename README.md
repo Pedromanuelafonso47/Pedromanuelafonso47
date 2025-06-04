@@ -1,23 +1,6 @@
 Ola eu sou o Pedro Afonso👋Tecnologia é minha linguagem desde criança. Vejo nela a ponte entre sonhos e realidade, a ferramenta que transforma assimetrias em oportunidades. Movido por desafios, aprendizado contínuo e soluções que mudam vidas, busco não apenas evoluir, mas inspirar. Acredito em código que humaniza e inovação que democratiza. Vamos construir o futuro?
 
 
-<h3 align="center">
-  <span style="color: #fff; border-right: 2px solid; animation: typing 3s steps(20), blink-caret 0.5s step-end infinite;">
-    Seu texto aqui
-  </span>
-</h3>
-
-<style>
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: #fff }
-  }
-</style>
-
 
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/Pedromanuelafonso47/Pedromanuelafonso47/edit/main/README.md)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC7QhKLP1KyaQLQlE-iDrPiw) 
