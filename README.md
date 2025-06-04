@@ -1,15 +1,3 @@
-
-
-
-[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/Pedromanuelafonso47/Pedromanuelafonso47/edit/main/README.md)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC7QhKLP1KyaQLQlE-iDrPiw) 
-[![winstagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.youtube.com/channel/UC7QhKLP1KyaQLQlE-iDrPiw)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.youtube.com/channel/UC7QhKLP1KyaQLQlE-iDrPiw)
-
-
-### Tecnologias que uso no meu dia a dia 
-
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9" alt="Typing SVG">
