@@ -1,4 +1,3 @@
-Ola eu sou o Pedro Afonso👋Tecnologia é minha linguagem desde criança. Vejo nela a ponte entre sonhos e realidade, a ferramenta que transforma assimetrias em oportunidades. Movido por desafios, aprendizado contínuo e soluções que mudam vidas, busco não apenas evoluir, mas inspirar. Acredito em código que humaniza e inovação que democratiza. Vamos construir o futuro?
 
 
 
@@ -20,7 +19,7 @@ Ola eu sou o Pedro Afonso👋Tecnologia é minha linguagem desde criança. Vejo 
 
 
 <p align="center">
-Sou Odilon, estudante de Análise e Desenvolvimento de Sistemas e participante do programa <strong>Programadores do Amanhã</strong>. Busco uma oportunidade como desenvolvedor full stack júnior ou estagiário, com foco em <strong>Node.js</strong>, <strong>React</strong> e <strong>MySQL</strong>. Me destaco por minhas habilidades socioemocionais como comunicação, proatividade, organização e resiliência. Tenho facilidade para trabalhar em equipe e aprender na prática com projetos desafiadores. Já contribui em projetos estudantis e pessoais, o que reforçou minha capacidade de colaboração e resolução de problemas. Estudo e pratico todos os dias com foco em me tornar um <strong>desenvolvedor Full Stack</strong>.
+Olá eu sou o Pedro Afonso👋Tecnologia é minha linguagem desde criança. Vejo nela a ponte entre sonhos e realidade, a ferramenta que transforma assimetrias em oportunidades. Movido por desafios, aprendizado contínuo e soluções que mudam vidas, busco não apenas evoluir, mas inspirar. Acredito em código que humaniza e inovação que democratiza. Vamos construir o futuro?
 </p>
 
 ---
