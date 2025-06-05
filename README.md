@@ -13,7 +13,7 @@ Olá eu sou o Pedro Afonso👋Tecnologia é minha linguagem desde criança. Vejo
   <table>
     <tr>
       <td valign="middle" style="padding-right: 30px;">
-        <img src="https://raw.githubusercontent.com/Pedromanuelafonso47/Pedromanuelafonso47/main/eye-12452_256.gif" width="140" alt="Olho animado">
+        <img src="https://raw.githubusercontent.com/Pedromanuelafonso47/Pedromanuelafonso47/16a82ffa162819e52e85fe1cd39ad69b953581c9/eye-12452_256.gif" width="140" alt="Olho animado">
       </td>
       <td valign="middle">
         <img src="https://raw.githubusercontent.com/Pedromanuelafonso47/Pedromanuelafonso47/main/glasses-17902_256.gif" width="180" alt="Óculos animados">
