@@ -9,11 +9,11 @@
 <p align="center">
 Olá eu sou o Pedro Afonso👋Tecnologia é minha linguagem desde criança. Vejo nela a ponte entre sonhos e realidade, a ferramenta que transforma assimetrias em oportunidades. Movido por desafios, aprendizado contínuo e soluções que mudam vidas, busco não apenas evoluir, mas inspirar. Acredito em código que humaniza e inovação que democratiza. Vamos construir o futuro?
 </p>
+
+---
 <div align="center">
   <img src="https://raw.githubusercontent.com/Pedromanuelafonso47/Pedromanuelafonso47/16a82ffa162819e52e85fe1cd39ad69b953581c9/eye-12452_256.gif" height="190px">
 </div>
-
----
 
 <div align="center">
   <img src="./src/Coding Hello World GIF.gif" alt="study gif" height="190px">
