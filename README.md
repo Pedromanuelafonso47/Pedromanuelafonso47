@@ -66,13 +66,13 @@ Olá eu sou o Pedro Afonso👋Tecnologia é minha linguagem desde criança. Vejo
 
 <h3 align="center">📫 Onde me encontrar:</h3>
 <p align="center">
-  <a href="mailto:odilon123c@gmail.com">
+  <a href="mailto:pedromanuelafonso47@gmail.com.com">
     <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=39FF14" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/odilon-de-campos-742a202a0/" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-afonso-full-stack-developer/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=39FF14" alt="LinkedIn">
   </a>
-  <a href="https://github.com/odilonskt" target="_blank">
+  <a href="https://github.com/Pedromanuelafonso47/Pedromanuelafonso47/blob/main/eye-12452_256.gif" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white&labelColor=39FF14" alt="GitHub">
   </a>
 </p>
