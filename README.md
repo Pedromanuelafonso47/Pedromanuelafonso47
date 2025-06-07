@@ -79,12 +79,12 @@ Olá eu sou o Pedro Afonso👋Tecnologia é minha linguagem desde criança. Vejo
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <!-- GitHub Stats (azul) -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SEU_USERNAME&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=0079FF&text_color=FFFFFF&border_radius=3&border_color=0079FF&icon_color=0079FF&theme=radical" alt="GitHub stats">
-
-  <!-- Top Languages (azul) -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEU_USERNAME&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=0079FF&hide=html,scss,less&bg_color=000000&text_color=FFFFFF&border_radius=3&border_color=0079FF" alt="Most Used Languages">
-
-  <!-- Streak Stats (azul) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USERNAME&theme=dark&background=000000&ring=0079FF&fire=0079FF&currStreakLabel=0079FF&sideLabels=FFFFFF" alt="GitHub Streak">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=0079FF&text_color=FFFFFF&icon_color=0079FF&hide_title=true" alt="GitHub Stats">
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=0079FF&text_color=FFFFFF&hide_title=true" alt="Top Languages">
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=blueberry_duo&hide_border=true&background=00000000&stroke=0079FF&ring=0079FF&fire=0079FF&currStreakLabel=0079FF" alt="GitHub Streak">
 </div>
