@@ -1,6 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9" alt="Typing SVG">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%92%BB+Pedro+Afonso+%7C+Dev+Full+Stack;+N%C3%A3o+%C3%A9+Sorte++%C3%A9+Linha+de+C%C3%B3digo;+Erro+e+persist%C3%AAncia" alt="Typing SVG" /></a>
    
   </a>
 </div>
