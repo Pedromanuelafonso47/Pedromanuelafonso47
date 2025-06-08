@@ -80,7 +80,7 @@ Olá eu sou o Pedro Afonso👋Tecnologia é minha linguagem desde criança. Vejo
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=0079FF&text_color=FFFFFF&icon_color=0079FF&hide_title=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Pedromanuelafonso47&show_icons=true&hide_border=true&bg_color=00000000&title_color=0079FF&text_color=FFFFFF&icon_color=0079FF&hide_title=true" alt="GitHub Stats">
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=0079FF&text_color=FFFFFF&hide_title=true" alt="Top Languages">
