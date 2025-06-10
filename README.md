@@ -78,9 +78,11 @@ Olá eu sou o Pedro Afonso👋Tecnologia é minha linguagem desde criança. Vejo
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<a href="https://github.com/Pedromanuelafonso47">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pedromanuelafonso47&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/Pedromanuelafonso47">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedromanuelafonso47&layout=compact&langs_count=8&theme=dark" />
-</a>
+<div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
+  <a href="https://github.com/Pedromanuelafonso47">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pedromanuelafonso47&show_icons=true&theme=blue" />
+  </a>
+  <a href="https://github.com/Pedromanuelafonso47">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedromanuelafonso47&layout=compact&langs_count=8&theme=blue" />
+  </a>
+</div>
