@@ -82,13 +82,13 @@ Olá eu sou o Pedro Afonso👋Tecnologia é minha linguagem desde criança. Vejo
     <tr>
       <td>
         <a href="https://github.com/Pedromanuelafonso47">
-          <img height="300" src="https://github-readme-stats.vercel.app/api?username=Pedromanuelafonso47&show_icons=true&theme=blue" />
+          <img height="500" src="https://github-readme-stats.vercel.app/api?username=Pedromanuelafonso47&show_icons=true&theme=blue" />
         </a>
       </td>
       <td width="25"></td> <!-- Espaçamento -->
       <td>
         <a href="https://github.com/Pedromanuelafonso47">
-          <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedromanuelafonso47&layout=compact&theme=blue&langs_count=8" />
+          <img height="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedromanuelafonso47&layout=compact&theme=blue&langs_count=8" />
         </a>
       </td>
     </tr>
