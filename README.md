@@ -77,19 +77,11 @@ Olá eu sou o Pedro Afonso👋Tecnologia é minha linguagem desde criança. Vejo
 </p>
 
 <h3 align="center">📊 GitHub Stats</h3>
-
-<div style="display: flex; flex-direction: row; align-items: flex-start; gap: 20px;">
-
-  <!-- Card 1: GitHub Stats -->
-  <a href="https://github.com/Pedromanuelafonso47" style="display: flex; flex-direction: row; align-items: flex-start; gap: 20px;">
->
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Pedromanuelafonso47&show_icons=true&theme=blue&hide_border=true" alt="Estatísticas do GitHub">
+<p align="center">
+  <a href="https://github.com/Pedromanuelafonso47">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Pedromanuelafonso47&show_icons=true&theme=blue" />
   </a>
-
-  <!-- Card 2: Top Languages -->
-  <a href="https://github.com/Pedromanuelafonso47" style="display: flex; flex-direction: row; align-items: flex-start; gap: 20px;">
->
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedromanuelafonso47&layout=compact&theme=blue&hide_border=true&langs_count=8" alt="Linguagens mais usadas">
+  <a href="https://github.com/Pedromanuelafonso47">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedromanuelafonso47&layout=compact&theme=blue&langs_count=8" />
   </a>
-
-</div>
+</p>
